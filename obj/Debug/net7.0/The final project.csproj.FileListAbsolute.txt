@@ -1,0 +1,15 @@
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\bin\Debug\net7.0\The final project.exe
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\bin\Debug\net7.0\The final project.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\bin\Debug\net7.0\The final project.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\bin\Debug\net7.0\The final project.dll
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\bin\Debug\net7.0\The final project.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\The final project.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\The final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\The final project.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\The final project.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\The final project.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\The final project.dll
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\refint\The final project.dll
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\The final project.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\The final project.genruntimeconfig.cache
+C:\Users\borzs\OneDrive\Рабочий стол\The final project\obj\Debug\net7.0\ref\The final project.dll
